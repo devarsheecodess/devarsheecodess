@@ -1,5 +1,5 @@
 <img src="LinkedIn Banner.png">
-<h1 align="center">Hi 👋, I'm Devarshee Gaunekar</h1
+<h1 align="center">Hi 👋, I'm Devarshee Gaunekar</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
 <img align="right" alt="gif" width ="400" src="gif.gif">
