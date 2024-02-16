@@ -19,6 +19,7 @@
 <a href="https://www.linkedin.com/in/devarshee-gaunekar-a06441257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devarshee gaunekar" height="30" width="40" /></a>
 <a href="https://instagram.com/devarsheegaunekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devarsheegaunekar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/devarsheecodess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devarsheecodess" height="30" width="40" /></a>
+<a href="https://www.discord.com/devarsheecodess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="devarsheecodess" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Tech Stack:</h3>
