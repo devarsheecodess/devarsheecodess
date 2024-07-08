@@ -1,15 +1,15 @@
 <img src="banner2.png">
 <h1 align="center">Hi 👋, I'm Devarshee Gaunekar</h1>
-<h3 align="center">A passionate Frontend developer from India</h3>
+<h3 align="center">A passionate Fullstack developer from India</h3>
 
 <img align="right" alt="gif" width ="400" src="gif.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devarsheecodess&label=Profile%20views&color=0e75b6&style=flat" alt="devarsheecodess" /> </p>
 
 <p align="left"> <a href="https://twitter.com/devarsheecodess" target="blank"><img src="https://img.shields.io/twitter/follow/devarsheecodess?logo=twitter&style=for-the-badge" alt="devarsheecodess" /></a> </p>
 
-- 🌱 I’m currently learning **Fullstack development**
+- 🌱 I’m currently learning **AI-ML development**
 
-- 💬 Ask me about **tech, web development**
+- 💬 Ask me about **tech, Fullstack development**
 
 - 📫 How to reach me **devarsheegaunekar29@gmail.com**
 
