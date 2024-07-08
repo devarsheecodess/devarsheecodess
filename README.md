@@ -1,4 +1,4 @@
-<img src="LinkedIn Banner.png">
+<img src="banner2.png">
 <h1 align="center">Hi 👋, I'm Devarshee Gaunekar</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
