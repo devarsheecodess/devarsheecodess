@@ -1,30 +1,114 @@
-[![An image of @devarsheecodess's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devarsheecodess)](https://holopin.io/@devarsheecodess)
-<h1 align="center">Hi 👋, I'm Devarshee Gaunekar</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devarsheecodess&label=Profile%20views&color=0e75b6&style=flat" alt="devarsheecodess" /> </p>
+<!-- HEADER CAPSULE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Devarshee%20Gaunekar&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-<p align="left"> <a href="https://twitter.com/devarsheecodess" target="blank"><img src="https://img.shields.io/twitter/follow/devarsheecodess?logo=twitter&style=for-the-badge" alt="devarsheecodess" /></a> </p>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Devarshee+%F0%9F%91%8B;Software+Developer+%7C+Agentic+AI+Enthusiast;Currently+diving+into+Devops;Code.+Build.+Ship.+Repeat.+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-- 🌱 I’m currently learning **AI-ML development**
+<br/>
 
-- 💬 Ask me about **tech, Fullstack development**
+<!-- SOCIAL BADGES -->
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/codewizard29)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devarsheegaunekar)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/devarsheegaunekar)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devarshee.work@gmail.com)
 
-- 📫 How to reach me **devarsheegaunekar29@gmail.com**
+<img src="https://komarev.com/ghpvc/?username=devarsheecodess&label=Profile+Views&color=a78bfa&style=flat-square" alt="profile views"/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/devarsheecodess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devarsheecodess" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devarshee gaunekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devarshee gaunekar" height="30" width="40" /></a>
-<a href="https://instagram.com/devarsheegaunekar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devarsheegaunekar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/devarsheecodess" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="devarsheecodess" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devarsheecodess&show_icons=true&locale=en&layout=compact" alt="devarsheecodess" /></p>
+<!-- HOLOPIN BOARD -->
+## 🏅 Holopin Badges
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devarsheecodess&show_icons=true&locale=en" alt="devarsheecodess" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devarsheecodess&" alt="devarsheecodess" /></p>
+[![An image of @devarsheecodess's Holopin badges](https://holopin.me/devarsheecodess)](https://holopin.io/@devarsheecodess)
+
+</div>
+
+---
+
+<!-- ABOUT ME -->
+## 🧑‍💻 About Me
+
+```typescript
+const devarshee = {
+  location:    "Goa, India 🇮🇳",
+  role:        "Software Developer",
+  learning:    ["Agentic AI", "DevOps"],
+  stack:       ["MERN", "Next.js", "FastAPI", "Python", "TensorFlow"],
+  databases:   ["MongoDB", "PostgreSQL", "MySQL", "Supabase", "Redis"],
+  funFact:     "I debug using ChatGPT I'm not ashamed HEHE",
+  openTo:      "Collaborations, Open Source & Cool Projects 🤝",
+};
+```
+
+---
+
+<!-- TECH STACK -->
+## 🛠️ Tech Stack & Tools
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind)
+
+**Backend & Databases**
+
+![Backend](https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,postgresql,mysql,supabase,redis)
+
+**Languages**
+
+![Languages](https://skillicons.dev/icons?i=js,ts,python,java,c,cpp)
+
+**Tools & Platforms**
+
+![Tools](https://skillicons.dev/icons?i=git,github,postman,arduino,tensorflow,vscode)
+
+**Cloud & DevOps**
+
+![Cloud](https://skillicons.dev/icons?i=docker,azure)
+
+---
+
+<!-- CURRENTLY -->
+## 🚀 What I'm Up To
+
+- 🔭 Building cool stuff
+- 🤖 Exploring **Agentic AI** — Building autonomous agents
+- ☁️ Keen to learn DevOps, to scale systems
+- 💡 Always tinkering with something new
+- 📬 Reach me at **devarshee.work@gmail.com**
+
+---
+
+<!-- GITHUB STATS -->
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=devarsheecodess&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa" width="48%" />
+
+</div>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devarsheecodess&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=true" width="100%"/>
+
+---
+
+<!-- FOOTER -->
+<div align="center">
+
+**"First, solve the problem. Then, write the code."**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
